@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RPNCalculator</string>
+    <string name="enter">ENTER</string>
+    <string name="edit_field">Edit Field</string>
+    <string name="substract">-</string>
+    <string name="plus">+</string>
+    <string name="_9">9</string>
+    <string name="_8">8</string>
+    <string name="_7">7</string>
+    
+    <string-array name="decimals">
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+    </string-array>
+</resources>
